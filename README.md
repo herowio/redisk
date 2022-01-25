@@ -3,7 +3,7 @@
 </h1>
 
 [![npm version](https://badge.fury.io/js/redisk.svg)](https://badge.fury.io/js/redisk) 
-![Redisk CI](https://github.com/ArkerLabs/redisk/workflows/Redisk%20CI/badge.svg)
+![Redisk CI](https://github.com/herowio/redisk/actions/workflows/ci.yml/badge.svg)
 
 Redisk is a TypeScript ORM library for Redis.
 
@@ -97,6 +97,7 @@ const redisk = Redisk.init(options);
 | port     | Port of the Redis server                                                                                                                |
 | db       | Number of the db (Default: 0)                                                                                                           |
 | password | Password of the Redis server     
+| sentinels| Redis sentinel options (port and host)
 
 
 Closing connection to Redis:
