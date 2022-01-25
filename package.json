@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArkerLabs/redisk.git"
+    "url": "git+https://github.com/herowio/redisk.git"
   },
   "keywords": [
     "typescript",
@@ -36,9 +36,9 @@
   "author": "ArkerLabs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArkerLabs/redisk/issues"
+    "url": "https://github.com/herowio/redisk/issues"
   },
-  "homepage": "https://github.com/ArkerLabs/redisk#readme",
+  "homepage": "https://github.com/herowio/redisk#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
